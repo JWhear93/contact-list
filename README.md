@@ -1,0 +1,1 @@
+JS contact list with console logging output to HTML. (Made as part of course practice)
